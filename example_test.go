@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/dgrijalva/jwt-go"
 	"time"
+	"github.com/helmutkemper/jwt-go"
 )
 
 // Example (atypical) using the StandardClaims type by itself to parse a token.
